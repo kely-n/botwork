@@ -25,7 +25,9 @@ def get_productId_dictionary(productId, countryCode):
 
 
 
-def scrape_data_from(url, country_code, webhook):
+def scrape_data_from(scrape_item):
+  url, country_code, webhook
+  
   #Requesting data from our target url
   page = requests.get(url)
 

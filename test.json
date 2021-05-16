@@ -12,20 +12,24 @@
       "country_code": "AT",
       "country_name": "Austria",
       "url": "https://www.nike.com/at/en/launch?s=upcoming",
-      "webhook": "https://discord.com/api/webhooks/841991678616797244/91ifDmSFEueD8VP5-kB0GoAu4TsT4IIEH0G4l1BNGXfhhTxFT6b4npPz1ZeIm08oN0HK"
+      "webhook_token": "kB0GoAu4TsT4IIEH0G4l1BNGXfhhTxFT6b4npPz1ZeIm08oN0HK",
+      "webhook_id": "841991678616797244"
     },
-
+    
     {
       "country_code": "SA",
       "country_name": "Saudi arabia",
       "url": "https://www.nike.com/sa/launch?s=upcoming",
-      "webhook": "https://discord.com/api/webhooks/841992740254515200/Ui0U3ua9hkbERmCaNLdR5zs3UVSn8ik3LlrOtlqQEIjmCxm4fEuEZ6Nz4d1WnnLgMEUT"
+      "webhook_token":"Ui0U3ua9hkbERmCaNLdR5zs3UVSn8ik3LlrOtlqQEIjmCxm4fEuEZ6Nz4d1WnnLgMEUT",
+      "webhook_id": "841992740254515200"   
     },
+    
     {
       "country_code": "MX",
       "country_name": "Mexico",
       "url": "https://www.nike.com/mx/launch?s=upcoming",
-      "webhook": "https://discord.com/api/webhooks/841992654270627880/4D7xmsaYP6laPTf4zLGx3ggJryq5MonRpTOcOgEroeg3N7URQsQ-sp3-LPQMwm9M9uSa"
+      "webhook_token":"4D7xmsaYP6laPTf4zLGx3ggJryq5MonRpTOcOgEroeg3N7URQsQ-sp3-LPQMwm9M9uSa",
+      "webhook_id": "841992654270627880"   
     }
     
   ]
