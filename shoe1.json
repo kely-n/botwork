@@ -1,0 +1,44 @@
+{
+    "username" : "GhostBot",
+    "embeds": [{
+        
+        "title": "Dunk High Court Purple",
+        "url": "https://www.reddit.com/r/cats/",
+        "fields": [
+            {
+                "name" : "Date",
+                "value": "5/28/2021"
+            },
+        {
+                "name" : "Style Code",
+                "value": "DH0642-001"
+            },
+        {
+                "name" : "Price",
+                "value": "MYR 499"
+            },
+        {
+                "name" : "Stock Level",
+                "value": ":orange_circle: US7\n:red_circle: US7.5\n:green_circle: US9" 
+            },
+        {
+            "name" : "Stock Level Indicator",
+            "value" : ":green_circle: - HIGH :orange_circle: - MEDIUM :red_circle: -LOW :no_entry_sign: - OOS"
+        },
+        {
+            "name" : "Early Link",
+            "value" : "```https://www.nike.com/my/launch/t/dunk-high-court-purple?productId=a440ee54-31fd-593a-a842-95393bbea85b&size=```\n*insert your desired size behind the link*"
+        }
+        
+        
+        ],
+        "thumbnail" : {
+            "url" : "https://secure-images.nike.com/is/image/DotCom/DJ6903_100_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+        },   
+         "color": 16777215, 
+        "footer": {
+            "text" : "GHOST SUPPLY TEAM",
+            "icon_url" : "https://secure-images.nike.com/is/image/DotCom/DJ6903_100_A_PREM?$SNKRS_COVER_WD$&align=0,1" 
+        }
+    }]
+}

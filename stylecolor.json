@@ -1,0 +1,265 @@
+{
+    "pages": {},
+    "objects": [
+        {
+            "gtin": "00194958251529",
+            "method": "SHIP",
+            "level": "OOS",
+            "available": false,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-04-13T14:25:29.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251536",
+            "method": "SHIP",
+            "level": "OOS",
+            "available": false,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-04-13T14:25:28.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251567",
+            "method": "SHIP",
+            "level": "OOS",
+            "available": false,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-04-13T14:25:27.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251574",
+            "method": "SHIP",
+            "level": "OOS",
+            "available": false,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:36.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251758",
+            "method": "SHIP",
+            "level": "OOS",
+            "available": false,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-04-13T14:25:27.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251765",
+            "method": "SHIP",
+            "level": "OOS",
+            "available": false,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-04-13T14:25:28.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251581",
+            "method": "SHIP",
+            "level": "LOW",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:37.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251598",
+            "method": "SHIP",
+            "level": "LOW",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:35.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251604",
+            "method": "SHIP",
+            "level": "MEDIUM",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:37.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251611",
+            "method": "SHIP",
+            "level": "HIGH",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:37.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251628",
+            "method": "SHIP",
+            "level": "HIGH",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:37.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251635",
+            "method": "SHIP",
+            "level": "HIGH",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:36.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251642",
+            "method": "SHIP",
+            "level": "HIGH",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:37.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251659",
+            "method": "SHIP",
+            "level": "HIGH",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:36.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251666",
+            "method": "SHIP",
+            "level": "LOW",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:38.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251673",
+            "method": "SHIP",
+            "level": "LOW",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:36:35.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251680",
+            "method": "SHIP",
+            "level": "LOW",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-11T02:30:28.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251697",
+            "method": "SHIP",
+            "level": "HIGH",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-02T02:45:10.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251710",
+            "method": "SHIP",
+            "level": "HIGH",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-05-01T02:40:13.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        },
+        {
+            "gtin": "00194958251727",
+            "method": "SHIP",
+            "level": "LOW",
+            "available": true,
+            "styleColor": "555088-035",
+            "styleType": "INLINE",
+            "modificationDate": "2021-04-16T02:35:04.000Z",
+            "locationId": {
+                "id": "XP",
+                "type": "merchGroup"
+            }
+        }
+    ]
+}

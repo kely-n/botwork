@@ -1,0 +1,456 @@
+{
+    "pages": {},
+    "objects": [
+        {
+            "id": "16681f41-85d6-55dc-b564-42a13ab1f711",
+            "snapshotId": "2fc751a1-a96e-48d5-baf8-0b38ba862b99",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "797a4d5b-bd2c-3823-a449-80667681eede",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26255954",
+            "gtin": "00194958251574",
+            "nikeSize": "7",
+            "sizeConversionId": "c6709307-0293-31bb-93a5-25dc36fac4fa",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "7",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/16681f41-85d6-55dc-b564-42a13ab1f711?country=AU"
+                }
+            }
+        },
+        {
+            "id": "e5259feb-92ff-501c-b483-e5ffcc11e9d1",
+            "snapshotId": "9f70628e-58e5-4d12-b2f5-6bf5f71c00d1",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "61457f75-734f-3504-a46f-382dad38373c",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256064",
+            "gtin": "00194958251581",
+            "nikeSize": "7.5",
+            "sizeConversionId": "5c357820-4cff-37a6-b815-984753484f06",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "7.5",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/e5259feb-92ff-501c-b483-e5ffcc11e9d1?country=AU"
+                }
+            }
+        },
+        {
+            "id": "e58bc538-ced5-59ab-a517-86940ec30716",
+            "snapshotId": "aa870c63-0123-4fdf-98d1-d718563169d3",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "e8b3db20-bc47-30cc-8b4a-ca97f44879a8",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256078",
+            "gtin": "00194958251598",
+            "nikeSize": "8",
+            "sizeConversionId": "cb09fd63-b7c0-3aef-a9a6-040218d4b4e4",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "8",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/e58bc538-ced5-59ab-a517-86940ec30716?country=AU"
+                }
+            }
+        },
+        {
+            "id": "e1d8551c-e9b2-522a-89e4-e18124775f5c",
+            "snapshotId": "2739021c-80b4-4360-8753-edeb4c177d5a",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "b1db79a7-4da3-39c3-91d3-38043d072aca",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256059",
+            "gtin": "00194958251604",
+            "nikeSize": "8.5",
+            "sizeConversionId": "11873a21-5755-3ab1-9d43-43154f0866f6",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "8.5",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/e1d8551c-e9b2-522a-89e4-e18124775f5c?country=AU"
+                }
+            }
+        },
+        {
+            "id": "078fc30a-37f6-5649-98b0-dc159da51bd1",
+            "snapshotId": "de7cdcc3-4c3c-426f-ba47-a791754174b2",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "b4ac8a5a-e7c3-3c64-b4dc-cdfed6895740",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26255952",
+            "gtin": "00194958251611",
+            "nikeSize": "9",
+            "sizeConversionId": "12dfa6f8-bf97-333f-bf8a-e7e2b4b03917",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "9",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/078fc30a-37f6-5649-98b0-dc159da51bd1?country=AU"
+                }
+            }
+        },
+        {
+            "id": "86c3fd46-04ae-582e-a2ae-792f8482ccfd",
+            "snapshotId": "9f516e7e-7df6-4d6a-8ec3-6975c4559c9c",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "d9da1946-18a0-39cc-96ed-dd21a39d40ea",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26255953",
+            "gtin": "00194958251628",
+            "nikeSize": "9.5",
+            "sizeConversionId": "4a528b33-a71b-342c-baa2-616a89985fef",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "9.5",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/86c3fd46-04ae-582e-a2ae-792f8482ccfd?country=AU"
+                }
+            }
+        },
+        {
+            "id": "30ea825e-1254-5500-8be0-aa6afa42eaf0",
+            "snapshotId": "33c15b23-0ad9-4d2c-9c9a-3422b979fa0c",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "027c60fe-2679-37fa-8ebc-dcd1e6689f1f",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256070",
+            "gtin": "00194958251635",
+            "nikeSize": "10",
+            "sizeConversionId": "37734db6-efb3-39b9-bd03-fe43d8f87daf",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "10",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/30ea825e-1254-5500-8be0-aa6afa42eaf0?country=AU"
+                }
+            }
+        },
+        {
+            "id": "6f191f3f-7f5d-5a8d-9cd2-ea49e1a25cda",
+            "snapshotId": "b22b09b3-fca4-4505-bb63-806774eb8798",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "420a2816-9f27-3889-8af0-d3bb81c3e239",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256071",
+            "gtin": "00194958251642",
+            "nikeSize": "10.5",
+            "sizeConversionId": "66fd0467-2345-3d11-9c0e-17101482a5a9",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "10.5",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/6f191f3f-7f5d-5a8d-9cd2-ea49e1a25cda?country=AU"
+                }
+            }
+        },
+        {
+            "id": "8303d7bf-30ea-5658-bbe4-271d410f1941",
+            "snapshotId": "6d2fab05-2f11-4700-956a-8166b7e1fc5b",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "9082fbdf-cca2-3d88-9d32-e116df171f67",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26255955",
+            "gtin": "00194958251659",
+            "nikeSize": "11",
+            "sizeConversionId": "a69a29b5-4dbd-3df9-a010-5d71b2a24682",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "11",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/8303d7bf-30ea-5658-bbe4-271d410f1941?country=AU"
+                }
+            }
+        },
+        {
+            "id": "96c29362-6f4a-58f6-8ed5-c02cc08d08f5",
+            "snapshotId": "8e49c9b0-ca85-4391-99ca-26ac862c9230",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "2abc6932-da06-3e04-b17f-f0c492a1b6b5",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256072",
+            "gtin": "00194958251666",
+            "nikeSize": "11.5",
+            "sizeConversionId": "0ba21a73-e751-3354-b408-42e35d56e50b",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "11.5",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/96c29362-6f4a-58f6-8ed5-c02cc08d08f5?country=AU"
+                }
+            }
+        },
+        {
+            "id": "52e3164b-fb09-5abe-a1da-1073683bc3dc",
+            "snapshotId": "a4ad0808-aedf-464c-a6c2-8befadec0e95",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "49ce5560-c5ef-3c9a-bd92-bb9a6acf2cd6",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256068",
+            "gtin": "00194958251673",
+            "nikeSize": "12",
+            "sizeConversionId": "25681ef3-6dec-3029-98fc-98da0a431aac",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "12",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/52e3164b-fb09-5abe-a1da-1073683bc3dc?country=AU"
+                }
+            }
+        },
+        {
+            "id": "2a4494fa-25e2-5637-a68b-f992cfbb15e4",
+            "snapshotId": "b5fcfc0f-a1c3-4c56-a5f4-0624feb709ce",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "8f196099-878a-3b6c-88c3-07f83b7852b1",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256060",
+            "gtin": "00194958251680",
+            "nikeSize": "12.5",
+            "sizeConversionId": "f5c24c6d-bcb8-31ec-a177-b8d75e902d1b",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "12.5",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/2a4494fa-25e2-5637-a68b-f992cfbb15e4?country=AU"
+                }
+            }
+        },
+        {
+            "id": "e0d3894b-bf25-5e73-9851-8331565b6840",
+            "snapshotId": "fd3f03a3-5384-4fd8-8c01-d598e55f345b",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "b03c7e61-17fe-381f-9d90-7a8e5d246602",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256073",
+            "gtin": "00194958251697",
+            "nikeSize": "13",
+            "sizeConversionId": "d984f2d7-84d4-37c9-b860-1c89d499358f",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "13",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/e0d3894b-bf25-5e73-9851-8331565b6840?country=AU"
+                }
+            }
+        },
+        {
+            "id": "88f1442a-4474-5d41-b6ba-162ed3afd94f",
+            "snapshotId": "bee0fa7e-fa08-4a21-843c-02d9420d82ea",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "a9a5915e-fcf8-318d-8289-75b9bc981a18",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256074",
+            "gtin": "00194958251710",
+            "nikeSize": "15",
+            "sizeConversionId": "97ea50fe-970f-3816-8ce6-90e79890d2f7",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "15",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/88f1442a-4474-5d41-b6ba-162ed3afd94f?country=AU"
+                }
+            }
+        },
+        {
+            "id": "cff1284c-485a-59aa-8551-2ddd4aa7207c",
+            "snapshotId": "733e5c15-3917-4be5-ae35-af95873fb3d2",
+            "productId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentId": "4ec7f828-f1c6-5e2f-b68d-19df4db18f00",
+            "parentType": "merchProduct",
+            "catalogSkuId": "8243f041-597a-317c-92a2-8f25bb03b7ee",
+            "modificationDate": "2021-04-01T02:35:37.670Z",
+            "merchGroup": "XP",
+            "stockKeepingUnitId": "26256065",
+            "gtin": "00194958251727",
+            "nikeSize": "16",
+            "sizeConversionId": "2397c175-cf5b-3a6c-91ea-72b19973a550",
+            "countrySpecifications": [
+                {
+                    "country": "AU",
+                    "localizedSize": "16",
+                    "localizedSizePrefix": "US",
+                    "taxInfo": {
+                        "vat": 0.0
+                    }
+                }
+            ],
+            "resourceType": "merchSku",
+            "links": {
+                "self": {
+                    "ref": "/merch/skus/v2/cff1284c-485a-59aa-8551-2ddd4aa7207c?country=AU"
+                }
+            }
+        }
+    ],
+    "errors": []
+}

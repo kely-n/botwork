@@ -1,0 +1,64 @@
+{
+  "objects" : [
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "url": "https://www.nike.com/au/launch?s=upcoming",
+      "webhook": "https://discord.com/api/webhooks/838728745577349150/p8IvF9LFNAi3hZDba0JATSKMDmqihuzMx0w6MAn-BZbCuNloXz9YbFTv7eidTr64Al-I"
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "url": "https://www.nike.com/in/launch?s=upcoming",
+      "webhook": "https://discord.com/api/webhooks/838729603924361247/Coidrmbii89yio7QwUAkcQ8xfY7VvR23y2rWQJ1usHg2JKBwY84BAXGOXiXQd78OzaOb"
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "url": "https://www.nike.com/id/launch?s=upcoming",
+      "webhook": "https://discord.com/api/webhooks/838729679657369630/FhXkxe1n2Rz2O-4HxdgAz9iPkCQGtUKrhhOf3UvIEetFy00PqRjJ9gNLkSozWxMobKNA"
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "url": "https://www.nike.com/jp/launch?s=upcoming ",
+      "webhook": "https://discord.com/api/webhooks/838729023919620156/_qhudW8TqHGzJKhm23bzjG5N4ot6zFSLg82Dn_2ErterUoyOtEbVrJBZKZNyyBDOQG82"
+    },
+    {
+      "country_code": "MY",
+      "country_name": "Malaysia",
+      "url": "https://www.nike.com/my/launch?s=upcoming",
+      "webhook": "https://discord.com/api/webhooks/838728840288796682/LuUntofQhFjLlmEF10acerziE3kq6PGeqLeRS1rGRxZLf1w0x9VmmXl_PlBZQMvLKumN"
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "url": "https://www.nike.com/nz/launch?s=upcoming",
+      "webhook": "https://discord.com/api/webhooks/838729401004195840/ecqp_94rlcWOkS1UHt_i-tAn_h3R9iGSBlKVah8wHLPuSibOjTuMuLVvEp5nHn_IFRM9"
+    },
+    {
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "url": "https://www.nike.com/ph/launch?s=upcoming",
+      "webhook": "https://discord.com/api/webhooks/838729493287272449/Ol0qLsA_2n-TTZnRUW-St1djsRBgKAAgRW3U8I15IuOe8MUmtsOCo0OFsZsZOnH3AWSK"
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "url": "https://www.nike.com/sg/launch?s=upcoming",
+      "webhook": "https://discord.com/api/webhooks/838728897977253918/slRtrMozlX2ILJ_6uDn-5pemeb4jJpttGbtiB5AUFDYE6RdrJccQ7aAnpZtOP55CpDD7"
+    },
+    {
+      "country_code": "TW",
+      "country_name": "Taiwan",
+      "url": "https://www.nike.com/tw/launch?s=upcoming",
+      "webhook": "https://discord.com/api/webhooks/838729086532583453/8GltW4JGqyx_lXLqtD25Ce4Pu_6s7D4KxrBtzvSADHrJHLoeSV776ES0UDDMQVLdTxaH"
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
+      "url": "https://www.nike.com/th/launch?s=upcoming",
+      "webhook": "https://discord.com/api/webhooks/838729173492301824/iC0D79mSdjpTrLD5upXYT0uc17yC2n6X7PuLaPxntWs9fl7jdek83HPEzdl_aLKXdfeg"
+    }
+  ]
+}
